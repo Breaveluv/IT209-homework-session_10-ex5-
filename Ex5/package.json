@@ -1,0 +1,13 @@
+{
+  "name": "hw-compose-backend",
+  "version": "1.0.0",
+  "description": "DevOps Session 10 - Exercise 5 Docker Compose Web Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
